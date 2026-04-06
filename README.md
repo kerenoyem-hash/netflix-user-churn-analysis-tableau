@@ -29,26 +29,26 @@ The dataset includes user demographics, subscription details, engagement metrics
 •	Created calculated fields for analysis
 --- 
 ## Key Calculations
-🔹 Churn Rate
+---Churn Rate
 AVG(Churned Users)
 Where:
 •	1 = Churned
 •	0 = Active
  
-🔹 Engagement Score
+ ---Engagement Score
 A weighted metric combining:
 •	Watch Time (40%)
 •	Sessions per Week (30%)
 •	Completion Rate (30%)
  
-🔹 Recency Segmentation
+---Recency Segmentation
 Users were grouped based on activity:
 •	Active Recently → ≤ 7 days
 •	At Risk → 8–30 days
 •	Dormant → 30+ days
 --- 
 ## Dashboard Features
-🔝 KPIs
+--- KPIs
 •	Total Users
 •	Churn Rate (%)
 •	Average Engagement Score
@@ -62,18 +62,18 @@ Users were grouped based on activity:
 •	Recency vs Churn Analysis
 --- 
 ## Key Insights
-1️⃣ Subscription Behavior
+--- Subscription Behavior
 Standard users contribute the highest number of churned users due to their larger user base.
 However, Premium users show a higher churn rate, indicating a greater likelihood of leaving.
  
-2️⃣ Engagement Impact
+--- Engagement Impact
 Users with low engagement levels have significantly higher churn rates.
 Highly engaged users contribute more churn in total numbers due to volume, but are less likely to churn proportionally.
  
-3️⃣ Recency Effect
+--- Recency Effect
 Dormant users are the most likely to churn, confirming that inactivity is a strong indicator of churn risk.
  
-4️⃣ Device Usage
+--- Device Usage
 Mobile devices show the highest usage share, indicating a strong preference for mobile streaming.
 ---
 ## Business Recommendations
@@ -86,11 +86,11 @@ Mobile devices show the highest usage share, indicating a strong preference for 
 This analysis highlights that churn is influenced by multiple factors, including engagement, subscription type, and user activity. By focusing on high-risk segments, businesses can improve retention and enhance overall user experience.
 ---
 ## Links
-•	📊 Dataset: https://www.kaggle.com/datasets/rhythmghai/netflix-user-watching-behavior-dataset
-•	💼 LinkedIn: https://www.linkedin.com/in/keren-oyem
-•	💻 GitHub: https://github.com/kerenoyem-hash
+---📊 Dataset: https://www.kaggle.com/datasets/rhythmghai/netflix-user-watching-behavior-dataset
+---💼 LinkedIn: https://www.linkedin.com/in/keren-oyem
+---💻 GitHub: https://github.com/kerenoyem-hash
 ---
 ## Author
-Keren Oyem
+---Keren Oyem
 Aspiring Data Analyst | Passionate about data-driven decision making
 
